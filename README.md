@@ -1,0 +1,2 @@
+coffeelint-whitespace-inside-braces
+===================================
